@@ -16,6 +16,8 @@ Each icon is a single SVG in the root of this repo, named by its id: `strawberry
 
 They're free for personal and commercial work under the [MIT license](LICENSE): sites, apps, games, menus, slides.
 
+Working in Figma? The same 120 icons are on [Figma Community](https://www.figma.com/community/file/1694060106042967067) as 24×24 components, grouped by category.
+
 ## All 120 icons
 
 <table>
