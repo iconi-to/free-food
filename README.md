@@ -20,6 +20,14 @@ Working in Figma? The same 120 icons are on [Figma Community](https://www.figma.
 
 Using Iconify? The same set is there as `iconito`: `npm i @iconify-json/iconito`, then `<Icon icon="iconito:strawberry" />`.
 
+## Mono
+
+The same 120 icons in one colour live in `mono/`. They're drawn with `currentColor`, details at 40 % opacity, so each icon takes the colour of the text around it. Paste the SVG inline for that; inside an `<img>` tag it stays black.
+
+```html
+<span style="color: #e5533d"><!-- paste mono/strawberry.svg here --></span>
+```
+
 ## All 120 icons
 
 <table>
