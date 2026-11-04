@@ -18,6 +18,8 @@ They're free for personal and commercial work under the [MIT license](LICENSE): 
 
 Working in Figma? The same 120 icons are on [Figma Community](https://www.figma.com/community/file/1694060106042967067) as 24×24 components, grouped by category.
 
+Using Iconify? The same set is there as `iconito`: `npm i @iconify-json/iconito`, then `<Icon icon="iconito:strawberry" />`.
+
 ## All 120 icons
 
 <table>
