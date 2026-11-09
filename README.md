@@ -18,7 +18,7 @@ They're free for personal and commercial work under the [MIT license](LICENSE): 
 
 Working in Figma? The same 120 icons are on [Figma Community](https://www.figma.com/community/file/1694060106042967067) as 24×24 components, grouped by category.
 
-Using Iconify? The same set is there as `iconito`: `npm i @iconify-json/iconito`, then `<Icon icon="iconito:strawberry" />`.
+Using Iconify? The same set is there as `iconito`, in Iconify's High Detail collection since 30 Oct 2026: `npm i @iconify-json/iconito`, then `<Icon icon="iconito:strawberry" />`.
 
 ## Mono
 
@@ -47,6 +47,94 @@ The same 120 icons in one colour live in `mono/`. They're drawn with `currentCol
   <tr><td align="center" width="12.5%"><img src="sandwich.svg" width="48" height="48" alt="sandwich"><br><sub>sandwich</sub></td><td align="center" width="12.5%"><img src="sausage.svg" width="48" height="48" alt="sausage"><br><sub>sausage</sub></td><td align="center" width="12.5%"><img src="shrimp.svg" width="48" height="48" alt="shrimp"><br><sub>shrimp</sub></td><td align="center" width="12.5%"><img src="smoothie.svg" width="48" height="48" alt="smoothie"><br><sub>smoothie</sub></td><td align="center" width="12.5%"><img src="soda.svg" width="48" height="48" alt="soda"><br><sub>soda</sub></td><td align="center" width="12.5%"><img src="soup.svg" width="48" height="48" alt="soup"><br><sub>soup</sub></td><td align="center" width="12.5%"><img src="spinach.svg" width="48" height="48" alt="spinach"><br><sub>spinach</sub></td><td align="center" width="12.5%"><img src="squid.svg" width="48" height="48" alt="squid"><br><sub>squid</sub></td></tr>
   <tr><td align="center" width="12.5%"><img src="stew.svg" width="48" height="48" alt="stew"><br><sub>stew</sub></td><td align="center" width="12.5%"><img src="tea.svg" width="48" height="48" alt="tea"><br><sub>tea</sub></td><td align="center" width="12.5%"><img src="tomato.svg" width="48" height="48" alt="tomato"><br><sub>tomato</sub></td><td align="center" width="12.5%"><img src="tortilla.svg" width="48" height="48" alt="tortilla"><br><sub>tortilla</sub></td><td align="center" width="12.5%"><img src="turkey.svg" width="48" height="48" alt="turkey"><br><sub>turkey</sub></td><td align="center" width="12.5%"><img src="waffle.svg" width="48" height="48" alt="waffle"><br><sub>waffle</sub></td><td align="center" width="12.5%"><img src="water.svg" width="48" height="48" alt="water"><br><sub>water</sub></td><td align="center" width="12.5%"><img src="wine.svg" width="48" height="48" alt="wine"><br><sub>wine</sub></td></tr>
 </table>
+
+<details>
+<summary>Other names for these icons</summary>
+
+- `almond`: almonds
+- `apple`: green apple, red apple
+- `bacon`: rasher, streaky bacon
+- `baguette`: french bread, french stick
+- `banana_bread`: banana loaf
+- `basil`: sweet basil
+- `bean`: kidney bean, beans
+- `beef`: steak
+- `beer`: pint, lager
+- `bell_pepper`: red pepper, capsicum, sweet pepper
+- `blueberry`: blueberries
+- `bread`: loaf of bread, loaf
+- `burger`: cheeseburger, hamburger
+- `candy`: sweets
+- `chicken`: chicken breast
+- `chicken_wing`: chicken wings, buffalo wing
+- `chickpea`: garbanzo bean, chickpeas
+- `chocolate`: chocolate bar
+- `cilantro`: coriander, coriander leaves
+- `cocktail`: mixed drink
+- `coffee`: cup of coffee
+- `coleslaw`: cole slaw, slaw
+- `cookie`: biscuit
+- `corn`: sweetcorn, corn on the cob, maize
+- `croissant_sweet`: blueberry muffin
+- `cupcake`: fairy cake
+- `curry`: curry bowl
+- `donut`: doughnut
+- `dumpling`: gyoza, potsticker
+- `egg`: eggs
+- `enchilada`: enchiladas
+- `flour`: all-purpose flour, plain flour
+- `french_toast`: eggy bread
+- `fried_egg_dish`: sunny side up
+- `fries`: fries, chips
+- `garlic`: garlic clove
+- `grape`: grapes
+- `ham`: gammon
+- `ice_cream`: ice cream cone
+- `juice`: orange juice, OJ
+- `lasagna`: lasagne
+- `lemon`: yellow lemon
+- `lentil`: lentils
+- `lime`: green lime
+- `maple_syrup`: maple
+- `mayonnaise`: mayo
+- `meatball`: meatballs
+- `milk`: glass of milk
+- `mint`: spearmint, peppermint
+- `noodles`: ramen noodles
+- `oats`: rolled oats, porridge oats
+- `olive`: olives
+- `olive_oil`: extra virgin olive oil, EVOO
+- `onion`: yellow onion, brown onion
+- `pancake`: hotcake, pancakes, hotcakes
+- `pasta`: spaghetti
+- `pasta_dish`: spaghetti
+- `peanut`: groundnut, monkey nut
+- `pie`: fruit pie
+- `pizza`: pizza slice
+- `potato`: spud
+- `ramen`: noodle soup
+- `rice`: white rice
+- `salad`: green salad
+- `salmon`: salmon fillet
+- `sausage`: banger
+- `shrimp`: prawn, prawns
+- `soda`: soft drink, cola, pop, fizzy drink
+- `soup`: bowl of soup
+- `squid`: calamari
+- `sugar`: sugar cubes
+- `sushi`: sushi roll, nigiri
+- `taco`: tacos
+- `tea`: cuppa, cup of tea
+- `tofu`: bean curd
+- `tortilla`: corn tortilla
+- `waffle`: belgian waffle
+- `walnut`: walnuts
+- `water`: glass of water
+- `wine`: red wine
+- `yogurt`: yoghurt
+- `zucchini`: courgette
+
+</details>
 
 ## Like them?
 
