@@ -140,6 +140,6 @@ The same 120 icons in one colour live in `mono/`. They're drawn with `currentCol
 
 Give the repo a ⭐. It helps more people find these icons, and it keeps us drawing new ones.
 
-Want more icons, and better ones? [iconi.to](https://iconi.to) has 800+ food icons in this style, in two collections, Classic and Mini. [Packs](https://iconi.to/packs) are $9 each and yours to keep, with every icon as SVG and PNG plus a Figma file. [Pro](https://iconi.to/pricing) is $96 a year, with no monthly plan, and gets you every pack plus 300 credits a year for your own icons.
+Want more icons, and better ones? [iconi.to](https://iconi.to) has 900+ food icons in this style, in two collections, Classic and Mini. [Packs](https://iconi.to/packs) are $9 each and yours to keep, with every icon as SVG and PNG plus a Figma file. [Pro](https://iconi.to/pricing) is $96 a year, with no monthly plan, and gets you every pack plus 300 credits a year for your own icons.
 
 Need one that isn't in the library? Describe it in one sentence and we'll [draw it](https://iconi.to/custom/new) in minutes, in this same style. Credits start at $3.
